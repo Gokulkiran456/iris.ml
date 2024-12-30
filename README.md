@@ -1,5 +1,7 @@
 Iris.ml
-Author - Gokul Kiran Kolusu
+Author - Gokul Kiran Kolusu-
+
+
  Problem Definition
 The goal of the project is to explore, visualize, and model the famous Iris dataset to understand the characteristics of different iris species and build machine learning models to classify these species accurately. The project provides insights into the dataset through exploratory data analysis (EDA) and employs various machine learning algorithms to achieve robust classification.
 
